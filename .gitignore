@@ -3,3 +3,13 @@ contracts/build/
 .idea
 .idea/workspace.xml
 package-lock.json
+
+.DS_Store
+.project
+.settings
+audit/code-review/**/*.sol
+audit/test/testchain/geth
+audit/test/testchain/geth.ipc
+audit/test/testchain/history
+audit/test/contracts
+private
